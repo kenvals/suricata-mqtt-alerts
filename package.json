@@ -1,0 +1,25 @@
+{
+  "name": "suricata-mqtt-alerts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenvals/suricata-mqtt-alerts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenvals/suricata-mqtt-alerts/issues"
+  },
+  "homepage": "https://github.com/kenvals/suricata-mqtt-alerts#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "node-watch": "^0.7.3",
+    "tail-file": "^1.4.15"
+  }
+}
